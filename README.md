@@ -14,7 +14,7 @@ Building various projects together as part of **dCrypt**.
 
 ### What I'm up to
 
-- [reride.ai](https://reride.ai) — AI-powered car customisation
+- [reride.ai](https://reride.ai) - AI-powered car customisation
 - Backend architecture and API design
 - AI-assisted development workflows
 
