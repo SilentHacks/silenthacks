@@ -34,17 +34,9 @@ Building various projects together as part of **dCrypt**.
 
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=SilentHacks&show_icons=true&theme=github_dark&hide_border=true&hide_title=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=SilentHacks&show_icons=true&theme=default&hide_border=true&hide_title=true" />
-    <img src="https://github-readme-stats.vercel.app/api?username=SilentHacks&show_icons=true&theme=github_dark&hide_border=true&hide_title=true" />
-  </picture>
-</p>
-
-<p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SilentHacks&layout=compact&theme=github_dark&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SilentHacks&layout=compact&theme=default&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilentHacks&layout=compact&theme=github_dark&hide_border=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=SilentHacks&theme=github-dark-blue&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=SilentHacks&theme=default&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SilentHacks&theme=github-dark-blue&hide_border=true" />
   </picture>
 </p>
 
