@@ -6,7 +6,7 @@
 
 ### About
 
-Python developer with a focus on backend systems and automation. Started out building Discord bots - one reached 85k+ servers. These days I'm exploring agentic AI workflows and developer tooling.
+Python developer with a focus on backend systems and automation. Started out building Discord bots, reaching 85k+ servers with one. These days I'm exploring agentic AI workflows and developer tooling.
 
 Building various projects together as part of **dCrypt**.
 
